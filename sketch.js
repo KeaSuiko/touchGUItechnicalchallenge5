@@ -41,5 +41,6 @@ fill(250)
   noStroke ();
   text("Change the size of the oval!", 240, 50);
   text("Rotate the rectangle!", 10, 50);
+  text ("Outline?", 165,75)
 
 }
